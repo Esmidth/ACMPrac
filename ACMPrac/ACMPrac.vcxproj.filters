@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\2015.10.25">
+      <UniqueIdentifier>{370dd1ff-9649-48cd-b893-e8e862b2f215}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Basis">
+      <UniqueIdentifier>{17990831-a910-4b96-81f8-4a2da327b1e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\2015.11.1">
+      <UniqueIdentifier>{a71093db-9c08-4542-b819-c4a3531624ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CF#329">
+      <UniqueIdentifier>{a451473a-4abf-47a5-b597-f187f6cbedfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\EE_C">
+      <UniqueIdentifier>{ad5d2fe5-cd74-4e56-b692-169fbcd4b0ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\HDU新生赛20151129">
+      <UniqueIdentifier>{45900366-478b-4df6-9310-0126eda23880}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\HDU新生赛20151129%28Ref:Infinity%29">
+      <UniqueIdentifier>{b5d9856f-7ff2-4f58-8224-861c5e7d62b9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.28.A1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.28.B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DataStructureDiv1\A.cpp">
+      <Filter>源文件\2015.10.25</Filter>
+    </ClCompile>
+    <ClCompile Include="B.cpp">
+      <Filter>源文件\2015.10.25</Filter>
+    </ClCompile>
+    <ClCompile Include="C.cpp">
+      <Filter>源文件\2015.10.25</Filter>
+    </ClCompile>
+    <ClCompile Include="D.cpp">
+      <Filter>源文件\2015.10.25</Filter>
+    </ClCompile>
+    <ClCompile Include="E.cpp">
+      <Filter>源文件\2015.10.25</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa679.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa122.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicArray.cpp">
+      <Filter>源文件\Basis</Filter>
+    </ClCompile>
+    <ClCompile Include="auto_ptr.cpp">
+      <Filter>源文件\Basis</Filter>
+    </ClCompile>
+    <ClCompile Include="Reference.cpp">
+      <Filter>源文件\Basis</Filter>
+    </ClCompile>
+    <ClCompile Include="A%28AC%29.cpp">
+      <Filter>源文件\2015.11.1</Filter>
+    </ClCompile>
+    <ClCompile Include="BB%28AC%29.cpp">
+      <Filter>源文件\2015.11.1</Filter>
+    </ClCompile>
+    <ClCompile Include="CC.cpp">
+      <Filter>源文件\2015.11.1</Filter>
+    </ClCompile>
+    <ClCompile Include="A_2Char.cpp">
+      <Filter>源文件\CF#329</Filter>
+    </ClCompile>
+    <ClCompile Include="EE_C1.cpp">
+      <Filter>源文件\EE_C</Filter>
+    </ClCompile>
+    <ClCompile Include="EE_C11.cpp">
+      <Filter>源文件\EE_C</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU11296.cpp">
+      <Filter>源文件\HDU新生赛20151129</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU11297.cpp">
+      <Filter>源文件\HDU新生赛20151129</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU11294.2.cpp">
+      <Filter>源文件\HDU新生赛20151129</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU11294%28AC%29.cpp">
+      <Filter>源文件\HDU新生赛20151129</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU11292%28AC%29.cpp">
+      <Filter>源文件\HDU新生赛20151129</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU11291%28AC%29.cpp">
+      <Filter>源文件\HDU新生赛20151129</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU_20151129_1001%28template%29.cpp">
+      <Filter>源文件\HDU新生赛20151129%28Ref:Infinity%29</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU_20151129_1001.cpp">
+      <Filter>源文件\HDU新生赛20151129%28Ref:Infinity%29</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU_20151129_1002.cpp">
+      <Filter>源文件\HDU新生赛20151129%28Ref:Infinity%29</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU_20151129_1003.cpp">
+      <Filter>源文件\HDU新生赛20151129%28Ref:Infinity%29</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU11293.cpp">
+      <Filter>源文件\HDU新生赛20151129</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU_20151129_1004.cpp">
+      <Filter>源文件\HDU新生赛20151129%28Ref:Infinity%29</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU_20151129_1007.cpp">
+      <Filter>源文件\HDU新生赛20151129%28Ref:Infinity%29</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU_20151129_1008.cpp">
+      <Filter>源文件\HDU新生赛20151129%28Ref:Infinity%29</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU11298%28AC%29.cpp">
+      <Filter>源文件\HDU新生赛20151129</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
